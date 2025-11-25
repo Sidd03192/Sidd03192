@@ -1,22 +1,21 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 Welcome to my Github!</h1>
 
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
+<p align="left">My name is Siddharth Potta and I'm a Sophomore at UT Austin Majoring in Computer Science.</p>
 
 <h2 align="left">About me</h2>
 
-###
+<p align="left">
+✨ <b>Creating bugs since:</b> 2020 (Started with Python & Java)
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-###
+📚 <b>I'm currently learning:</b> Neural Networks, Agentic AI, and System Design in Rust
 
-<h2 align="left">I code with</h2>
 
-###
+🎯 <b>Goals:</b> Build scalable AI-native infrastructure
+
+
+🎲 <b>Fun fact:</b> I built a Full Stack AI LMS to help CS teachers automate the generation and grading of coding assignments 
+</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
